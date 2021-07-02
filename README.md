@@ -4,7 +4,7 @@
 
 # Project link
 
-<a href="https://mithesh14.github.io/Github-profile/">Whatsapp web</a>
+<a href="https://mithesh14.github.io/Whatsapp-web-clone/">Whatsapp web</a>
 
 # Screenshots 
 
